@@ -1,6 +1,6 @@
 # Respuestas Read 07: Control de versiones
 
-## 1.¿Qué es el control de versiones?
+## 1. ¿Qué es el control de versiones?
 
 > Es una sistema que permite registrar, identificar y gestionar cambios en un archivo o conjunto de archivos a lo largo del tiempo.
 >
