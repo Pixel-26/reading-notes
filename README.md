@@ -15,15 +15,15 @@ En este espacio se encuentran las notas de lectura para el modulo **Code 101:**
 |     Clase         |       Titulo           |
 | ----------------- |:--------------------------:|
 | **[Read 01](./101/read01.md)**  | *Como funciona la web*          |
-| **[Read 02](./101/read02.md)**  | *CSS*                           |
-| **[Read 03](./101/read03.md)**  | *IA generativa*                 |
-| **[Read 04](./101/read04.md)**  | *Markdown*                      |
-| **[Read 05](./101/read05.md)**  | *Developer Tools*               |
-| **[Read 06](./101/read06.md)**  | *Control de versiones*          |
-| **[Read 07](./101/read07.md)**  | *Wireframing*                   |
-| **[Read 08](./101/read08.md)**  | *-*                             |
+| **[Read 02](./101/read02.md)**  | *HTML*                          |
+| **[Read 03](./101/read03.md)**  | *CSS*                           |
+| **[Read 04](./101/read04.md)**  | *IA generativa*                 |
+| **[Read 05](./101/read05.md)**  | *Markdown*                      |
+| **[Read 06](./101/read06.md)**  | *Developer Tools*               |
+| **[Read 07](./101/read07.md)**  | *Control de versiones*          |
+| **[Read 08](./101/read08.md)**  | *Wireframin*                    |
 | **[Read 09](./101/read09.md)**  | *-*                             |
-| **[Read 10](./101/read010.md)**  | *-*                             |
+| **[Read 10](./101/read010.md)**  | *-*                            |
 
 ## 🚀 Notas de lectura - Code 201
 
