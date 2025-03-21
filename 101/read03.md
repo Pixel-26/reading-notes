@@ -29,3 +29,4 @@ Existen **tres formas** de incorporar CSS en una página HTML:
 p {
   color: red;
 }
+s
