@@ -1,22 +1,29 @@
-# Jose Romero Livia
+# 📚 Jose Romero Livia
 
-## Sobre Mi :D
+## 📝 Notas de Lectura -Enter Tech
 
-¡Hola! Soy un joven de 18 años que está dando sus primeros pasos en el mundo del desarrollo Full Stack. Me encanta aprender cosas nuevas, ya que eso me ayuda a mis habilidades.
+Bienvenido a mi espacio de estudio. Mi nombre es José Romero y aquí llevo un registro de mis notas de lectura de Code 101 y Code 201, con resúmenes y reflexiones sobre cada clase.
 
-<!--
-![Jose Romero](https://drive.google.com/file/d/1ZjP6jamXAs-cIo221SMaPFsuuP2iiTQV/view?usp=sharing)
--->
 
-![Jose Romero](https://i.pinimg.com/originals/b2/2f/c9/b22fc9819b7744ab7e71d8bfd470b7b2.png)
+<img src="https://i.pinimg.com/originals/b2/2f/c9/b22fc9819b7744ab7e71d8bfd470b7b2.png" alt="logo_Jose" width="80" height="80">
 
-## Tabla de Contenido
 
-|     Notas         |       N°            |
-| ----------------- |:-------------------:|
-| **Primera Nota**  | *Actualización 01*  |
-| **Segunda Nota**  | *Actualización 02*  |
-| **Tercera Nota**  | *Actualización 03*  |
+## Notas de lectura - Code 101
+
+En este espacio se encuentran las notas de lectura para el modulo **Code 101:**
+
+|     Notas         |       Comentario           |
+| ----------------- |:--------------------------:|
+| **Read 01**  | *Como funciona la web*         |
+| **Read 02**  | *CSS*         |
+| **Read 03**  | *IA generativa*         |
+| **Read 04**  | *Markdown*         |
+| **Read 05**  | *Developer Tools*         |
+| **Read 06**  | *Control de versiones*         |
+| **Read 07**  | *Wireframing*         |
+| **Read 08**  | *-*         |
+| **Read 09**  | *-*         |
+| **Read 10**  | *-*         |
 
 ## Mi visión 
 
