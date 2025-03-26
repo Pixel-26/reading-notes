@@ -1,16 +1,35 @@
-# Mi archivo de notas git
+Aquí tienes la estructura en formato Markdown:  
 
-# comandos-git
+```markdown
+# Mi archivo de notas Git
 
-Estoy modificando mi README desde mi REPOSITORIO LOCAL   
+## Comandos Git
 
-Para ver el estatus de tu archivo es: \
-git status \
-Para seleccionar todos los archivos se usa \
-git add . 
+Estoy modificando mi README desde mi **repositorio local**.
+
+Para ver el estatus de tu archivo usa:
+```bash
+git status
+```
+Para seleccionar todos los archivos se usa:
+```bash
+git add .
+```
 
 ## ACP
 
-A = git add (Nombre del archivo(ojo sin parentesis)) \
-C = git commit -m "Descripcion de los cambios" \
-p = git push -u origin (nombre de la rama al que vamos a subir el los cambios(Ojo sin parentesis))
+- **A** = `git add` (Nombre del archivo **sin paréntesis**)
+  ```bash
+  git add nombre-del-archivo
+  ```
+- **C** = `git commit -m "Descripción de los cambios"`
+  ```bash
+  git commit -m "Descripción de los cambios"
+  ```
+- **P** = `git push -u origin` (Nombre de la rama **sin paréntesis**)
+  ```bash
+  git push -u origin nombre-de-la-rama
+  ```
+```
+
+Este es el código exacto en formato Markdown para que puedas copiarlo y pegarlo directamente en tu archivo `.md`. 🚀

@@ -22,7 +22,7 @@ En este espacio se encuentran las notas de lectura para el modulo **Code 101:**
 | **[Read 06](./101/read06.md)**  | *Developer Tools*               |
 | **[Read 07](./101/read07.md)**  | *Control de versiones*          |
 | **[Read 08](./101/read08.md)**  | *Wireframing*                   |
-| **[Read 09](./101/read09.md)**  | *-*                             |
+| **[Read 09](./101/read09.md)**  | *Introducción a Javascript*     |
 | **[Read 10](./101/read010.md)**  | *-*                            |
 
 ## 🚀 Notas de lectura - Code 201
