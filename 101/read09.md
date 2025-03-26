@@ -215,7 +215,3 @@ let y = 20;
 const z = 30;
 ```
 
----
-```
-
-Este es el contenido en formato Markdown con las preguntas y respuestas. Si necesitas algún ajuste o más detalles, ¡avísame!
